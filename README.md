@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Peter+Sameh;Fullstack+%26+Backend+Developer;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Peter+Sameh;Frontend+%26+Backend+Developer;Building+Scalable+Systems" alt="Typing SVG" />
 
 <br/>
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=petersameh&label=Profile+Views&color=f7a41d&style=flat" alt="profile views" />
 
 </div>
 
@@ -25,19 +22,10 @@
 ### 🌐 Connect with Me
 
 <div align="left">
-
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/petersamehshafik)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:petersameh953@gmail.com)
-
+  <a href="https://linkedin.com/in/petersamehshafik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:petersameh953@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
+
 
 ---
 
@@ -47,11 +35,9 @@
 
 <div align="left">
 
-[
 
 ![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,kafka&theme=dark)
 
-](https://skillicons.dev)
 
 </div>
 
@@ -59,11 +45,9 @@
 
 <div align="left">
 
-[
 
 ![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark)
 
-](https://skillicons.dev)
 
 </div>
 
@@ -71,11 +55,9 @@
 
 <div align="left">
 
-[
 
 ![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis&theme=dark)
 
-](https://skillicons.dev)
 
 </div>
 
@@ -83,23 +65,9 @@
 
 <div align="left">
 
-[
 
 ![My Skills](https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark)
 
-](https://skillicons.dev)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=petersameh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersameh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
