@@ -14,6 +14,7 @@
 - 💼 Experienced in **MERN Stack**, **AWS Cloud Infrastructure**, and **Security Architecture**
 - 🚀 Passionate about **distributed systems**, **event-driven architecture**, and **backend performance**
 - 📫 Reach me at **petersameh953@gmail.com**
+- 📫 Check out **[My Portfolio](https://petersameh.vercel.app/)**
 - 📄 Check out **[My Resume](https://drive.google.com/file/d/1cY9KDMN8gs8bq_dfdkEGHRhTkhNW9G_j/view?usp=drivesdk)**
 - ⚡ When I'm not coding, you'll find me lost in **movies and series**
 
